@@ -14,7 +14,7 @@ This project requires Python and several dependencies which can be installed via
 
 ```bash
 # Clone the repository
-git clone [repository-link]
+git clone [[repository-link]](https://github.com/joelorellana/PyTorch-Handwritten-Classifier.git)
 cd [repository-directory]
 
 # Install required Python packages
